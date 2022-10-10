@@ -1,4 +1,4 @@
 import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
-steramlit.subtitle('Breakfast Menu')
+steramlit.header('Breakfast Menu')
